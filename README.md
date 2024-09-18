@@ -1,0 +1,3 @@
+- Hi, I’m @pizzacoding-lab
+- I’m interested in finding a data analyst job in Singapore, but not limited to worldwide contracts
+- I’m currently learning visualization tools, particularly tableau.
